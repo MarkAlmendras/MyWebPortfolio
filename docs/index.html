@@ -162,10 +162,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h3 class="text-center" style="font-family: Lucida Calligraphy;"><b>GetInTouch</b></h3>
-				<p class="text-center">GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR
-				GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR
-				GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR
-				GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR GUITAR</p>
+				<p class="text-center">Fill up the form</p>
 				<form action="" method="post" id="contact-form">
 					Name:
 						<input type="text" name="full name"><br>
